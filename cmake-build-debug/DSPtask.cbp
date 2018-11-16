@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Bola/Desktop/DSPtask/Complex.h">
+			<Option target="DSPtask"/>
+		</Unit>
+		<Unit filename="C:/Users/Bola/Desktop/DSPtask/cmake-build-debug/ComplexDeclare.h">
+			<Option target="DSPtask"/>
+		</Unit>
 		<Unit filename="C:/Users/Bola/Desktop/DSPtask/main.cpp">
 			<Option target="DSPtask"/>
 		</Unit>

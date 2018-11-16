@@ -6,9 +6,15 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Bola/Desktop/DSPtask/Complex.h
+iostream
+-
+
 C:/Users/Bola/Desktop/DSPtask/main.cpp
 iostream
 -
 cmath
 -
+Complex.h
+C:/Users/Bola/Desktop/DSPtask/Complex.h
 
