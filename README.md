@@ -1,6 +1,7 @@
 
 # Discrete Fourier Transform Calculator
-**University task, Digital Signal Processing**
+**University task, Digital Signal Processing**  
+
 The `C++` application simply takes the **N-point** sampling rate from the user alongside the actual **x vector** and prints the following:
 
 	- Wn (Omega n) Matrix Values
