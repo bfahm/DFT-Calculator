@@ -9,7 +9,7 @@ The `C++` application simply takes the **N-point** sampling rate from the user a
 	- X[N] vector
 	- Magnitude of each vector elemnt
 	- Phase of each vector elemnt
- - If you're going to download/clone the repo, you are interested in the following files ONLY:
+ - Files included in the repo:
 	 - `run.bat` Simple batch file to compile and run main.cpp
 	 - `Complex.h` Header file for the custom Complex Numbers code
 	 - `main.cpp`	Main code file, contains functions and Complex.h utilization
