@@ -1,3 +1,0 @@
-C:/Users/Bola/Desktop/DSPtask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Bola/Desktop/DSPtask/cmake-build-debug/CMakeFiles/DSPtask.dir
-C:/Users/Bola/Desktop/DSPtask/cmake-build-debug/CMakeFiles/edit_cache.dir
